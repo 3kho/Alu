@@ -27,7 +27,7 @@
     "chalk": "^5.3.0",
     "cookie-parser": "^1.4.6",
     "dotenv-flow": "^4.1.0",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "notyf": "^3.10.0",
     "sequelize": "^6.37.3",
     "sqlite3": "^5.1.7",
